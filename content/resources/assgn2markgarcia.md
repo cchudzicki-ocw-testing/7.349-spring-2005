@@ -2,7 +2,7 @@
 content_type: resource
 description: This reaource includes information on biological processes, and vibirio
   fischeri.
-file: /media/courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/d6e3e17887d7686c55cf738c643d689f_markgarciaass2.pdf
+file: /media/courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/4ef4de22c032d6e27057224a402c900c_assgn2markgarcia.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -12,7 +12,7 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: d94c4372-d364-6d70-dec3-dbddaf026d53
 resourcetype: Document
-title: markgarciaass2.pdf
-uid: d6e3e178-87d7-686c-55cf-738c643d689f
+title: assgn2markgarcia.pdf
+uid: 4ef4de22-c032-d6e2-7057-224a402c900c
 ---
 This reaource includes information on biological processes, and vibirio fischeri.
